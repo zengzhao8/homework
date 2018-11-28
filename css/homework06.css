@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    height: 90px;
+    background: #FEFEFE;
+    text-align: center;
+}
+
+.top-content {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 90px;
+    width: 800px;
+    display: flex;
+}
+
+.logo {
+    margin-top: 25px;
+    background: #F46507 url(../images/mi-logo.png) center center;
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    margin-top: 25px;
+    margin-left: 25px;
+    line-height: 35px;
+}
+
+.title p:first-child {
+    font-size: 40px;
+}
+
+.title p:last-child {
+    font-size: 10px;
+}
+
+.container {
+    width: 100%;
+    height: 410px;
+    background-image: url(../images/banner.png);
+    background-size: 100%;
+    position: relative;
+}
+
+
+/* 登录框 */
+
+.form {
+    margin-top: 20px;
+    width: 280px;
+    box-shadow: 0 0 15px 3px rgba(51, 51, 51, 0.53);
+    text-align: center;
+    background: #fff;
+    overflow: hidden;
+    position: relative;
+    left: 800px;
+    top: 15px;
+}
+
+input {
+    width: 235px;
+    padding: 8px;
+    outline: none;
+    height: 25px;
+    border: 1px solid #e0e0e0
+}
+
+.login {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.login span {
+    color: #333
+}
+
+.login span.active {
+    color: #f56600
+}
+
+.phone {
+    margin-bottom: 10px;
+}
+
+.password {
+    margin-bottom: 10px;
+}
+
+.submit input {
+    width: 235px;
+    height: 35px;
+    background: #f56600;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.register {
+    margin-bottom: 45px;
+    font-size: 12px;
+}
+
+.form-footer {
+    width: 245px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-footer .qita {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.qita .left,
+.right {
+    position: absolute;
+    display: block;
+    width: 125px;
+    height: 1px;
+    background: #999;
+    top: 50%
+}
+
+.right {
+    right: 0
+}
+
+.AllIcon {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.AllIcon a {
+    display: block;
+    float: left;
+    width: 18px;
+    height: 18px;
+    background: #747474 url(../images/icons_type.png) no-repeat;
+    margin-left: 35px;
+}
+
+.AllIcon .one {
+    background-position: -20px 0
+}
+
+.AllIcon .two {
+    background-position: -38px 0
+}
+
+.AllIcon .three {
+    background-position: -57px 0
+}
+
+.AllIcon .four {
+    background-position: -85px 0
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 10px;
+    color: #747474;
+}
