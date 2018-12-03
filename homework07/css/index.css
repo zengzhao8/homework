@@ -1,0 +1,201 @@
+.head{
+    height: 63px;
+    width: 1200px;
+    border: white;
+    background: white;
+}
+.header{
+    width: 264px;
+    height: 64px;
+    margin-top: 0.7%;
+    margin-left: 3.8%;
+}
+.tabpanel li{
+    border: white;
+}
+.shouye{
+    margin-top: 1.5%;
+    margin-right: 2%;
+}
+.qiyejingshen{
+    width: 120px;
+    margin-top: 3.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.qiyejingshen p{
+    font-size: 23px;
+}
+.container{
+    width: 1200px;
+}
+.qiyejingshen-img img{
+    width: 80px;
+    height: 80px;
+}
+.qiyejingshen-img{
+    text-align: center;
+}
+.biaoshi{
+    margin-top: 20px;
+    font-size: 23px;
+    color: #2DAE36;
+}
+.productshow{
+    width: 1160px;;
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 2.6%;
+    border-bottom: #2DAE36 solid 1px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.productshow p{
+    border-top-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+    width: 120px;
+    line-height: 50px;
+    background: #2DAE36;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.product{
+    margin-top: 10px;
+}
+.product-img img{
+    width: 360px;
+    height: 280px;
+    margin-top: 20px;
+}
+.footer{
+    margin-top: 60px;
+    height: 140px;
+    background: #DDDDDD;
+    text-align: center;
+}
+.footer div{
+    height: 100px;
+}
+.foot-img{
+    text-align: center;
+    margin-top: 30px;
+}
+.foot-img a{
+    text-align: center;
+}
+.footer-div {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.foot-text div{
+    height: 30px;
+}
+.foot-text{
+    margin-top: 40px;
+}
+.foot-phone{
+    margin-top: 30px;
+}
+.two-container{
+    margin-top: 40px;
+}
+.two-map{
+    margin-left: 4%;
+}
+.two-head-img{
+    height: 370px;
+}
+.two-head-img img{
+    height: 370px;
+}
+.two-product{
+    margin-top: 25px;
+    margin-left: 3%;
+}
+.two-container-text .two-text{
+    text-indent: 25px;
+    margin-top: 25px;
+}
+
+.productlist{
+    margin-top: 40px;
+    width: 900px;
+}
+.productlist-img img{
+    padding: 10px;
+    width: 286px;
+    height: 215px;
+}
+.shop-img img{
+    height: 370px;
+}
+.shop-space{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.jiameng-title{
+    margin-left: -76px;
+}
+.green{
+    color: #2DAE36;
+}
+.fengge{
+    height: 1px;
+    width: 100%;
+    border-bottom: 1px dashed #2DAE36;
+}
+.us-img img{
+    height: 370px;
+}
+.bigger .iconfont-ic{
+    font-size: 60px;
+    color: #2DAE36;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.bigger .iconfont-i{
+    font-size: 30px;
+    color: #2DAE36;
+    vertical-align: middle;
+}
+.bigger p{
+    font-size: 30px;
+}
+.bigger .us-p{
+    font-size: 15px;
+}
+.joinus{
+    margin-top: 30px;
+}
+.bigger-left{
+    border-left: 1px solid #2DAE36;
+}
+.bigger-phone{
+    margin-top: 2.5%;
+}
+.bigger-p{
+    margin-left: 45%;
+}
+.map2{
+    margin-top: 80px;
+}
+.erweima img{
+    width: 120px;
+    height: 120px;
+}
+.erweima{
+    position: fixed;
+    top: 70%;
+    right: 0;
+}
+
+
+
+
+
+
+
